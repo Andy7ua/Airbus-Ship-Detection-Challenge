@@ -1,5 +1,5 @@
 # Airbus Ship Detection Challenge
-Read more [here](https://www.kaggle.com/competitions/airbus-ship-detection/overview)
+Read more information about challenge [here](https://www.kaggle.com/competitions/airbus-ship-detection/overview)
 
 ## Model training
 This is ML-CV solution for finding ships on satellite images
@@ -15,7 +15,7 @@ Specify parameters (path to folders, weight and training parameters) in **prepro
 
 ### Training
 
-1. Upload data from [here](https://www.kaggle.com/competitions/airbus-ship-detection/data))
+1. Upload data from [here](https://www.kaggle.com/competitions/airbus-ship-detection/data)
 
 2. Read dataset using preprocessing.py
 
